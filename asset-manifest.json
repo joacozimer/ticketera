@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ticketera/static/css/main.d112c853.css",
-    "main.js": "/ticketera/static/js/main.6633a836.js",
+    "main.js": "/ticketera/static/js/main.28fc6ede.js",
     "index.html": "/ticketera/index.html",
     "main.d112c853.css.map": "/ticketera/static/css/main.d112c853.css.map",
-    "main.6633a836.js.map": "/ticketera/static/js/main.6633a836.js.map"
+    "main.28fc6ede.js.map": "/ticketera/static/js/main.28fc6ede.js.map"
   },
   "entrypoints": [
     "static/css/main.d112c853.css",
-    "static/js/main.6633a836.js"
+    "static/js/main.28fc6ede.js"
   ]
 }

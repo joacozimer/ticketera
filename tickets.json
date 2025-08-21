@@ -1,0 +1,62 @@
+[
+    {
+        "id": 101,
+        "title": "Error en login",
+        "description": "El usuario no puede iniciar sesión con sus credenciales.",
+        "assignedTo": null,
+        "status": "open",
+        "priority": "alta",
+        "createdAt": "2025-08-21T09:00:00Z",
+        "updatedAt": "2025-08-21T09:00:00Z"
+    },
+    {
+        "id": 102,
+        "title": "Servidor caído",
+        "description": "El servidor principal dejó de responder y necesita reiniciarse.",
+        "assignedTo": "tech1",
+        "status": "open",
+        "priority": "crítica",
+        "createdAt": "2025-08-20T14:30:00Z",
+        "updatedAt": "2025-08-21T08:00:00Z"
+    },
+    {
+        "id": 103,
+        "title": "Problema con red",
+        "description": "Algunos usuarios no pueden conectarse a la red interna.",
+        "assignedTo": "tech2",
+        "status": "closed",
+        "priority": "media",
+        "createdAt": "2025-08-19T10:15:00Z",
+        "updatedAt": "2025-08-20T12:00:00Z"
+    },
+    {
+        "id": 104,
+        "title": "Impresora no imprime",
+        "description": "La impresora del área de administración no responde.",
+        "assignedTo": null,
+        "status": "open",
+        "priority": "baja",
+        "createdAt": "2025-08-21T07:45:00Z",
+        "updatedAt": "2025-08-21T07:45:00Z"
+    },
+    {
+        "id": 105,
+        "title": "Actualización de software",
+        "description": "Actualizar el software de contabilidad a la última versión.",
+        "assignedTo": "tech1",
+        "status": "reopened",
+        "priority": "media",
+        "createdAt": "2025-08-18T11:00:00Z",
+        "updatedAt": "2025-08-20T15:30:00Z"
+    },
+    {
+        "id": 106,
+        "title": "Correo no funciona",
+        "description": "Algunos usuarios no pueden enviar ni recibir correos electrónicos.",
+        "assignedTo": "tech2",
+        "status": "open",
+        "priority": "alta",
+        "createdAt": "2025-08-21T08:20:00Z",
+        "updatedAt": "2025-08-21T08:20:00Z"
+    }
+]
